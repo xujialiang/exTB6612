@@ -1,0 +1,28 @@
+{
+  "name": "eztb6612",
+  "version": "1.0.7",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xujialiang/ezTB6612.git"
+  },
+  "keywords": [
+    "tb6612",
+    "tt",
+    "smartcar"
+  ],
+  "author": "xujialiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xujialiang/ezTB6612/issues"
+  },
+  "homepage": "https://github.com/xujialiang/ezTB6612#readme",
+  "dependencies": {
+    "ezpwmforraspberry": "^1.0.0",
+    "rpio": "^2.4.2"
+  }
+}
